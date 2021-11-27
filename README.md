@@ -21,3 +21,4 @@ This repository is to keep track of some of the better deals found for Cyber Mon
 Additional Links/Sources:
 https://www.reddit.com/r/sysadmin/comments/r1wlzq/black_friday_deals_2021/
 https://github.com/0x90n/InfoSec-Black-Friday
+https://reconshell.com/infosec-black-friday/
