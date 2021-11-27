@@ -1,4 +1,5 @@
-# cybersecurity-cyber-monday-deals
+# 2021 Cyber Security/InfoSec Black Friday/Cyber Monday Deals
+
 This repository is to keep track of some of the better deals found for Cyber Monday most identified by the links below but a few others that I've included.
 
 
