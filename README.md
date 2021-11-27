@@ -23,3 +23,4 @@ https://www.reddit.com/r/sysadmin/comments/r1wlzq/black_friday_deals_2021/
 https://github.com/0x90n/InfoSec-Black-Friday
 https://reconshell.com/infosec-black-friday/
 https://www.webyeti.ninja/blog/hackerblkfri
+https://www.bleepingcomputer.com/offer/deals/the-best-black-friday-2021-security-it-vpn-and-antivirus-deals/
